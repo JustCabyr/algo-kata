@@ -1,3 +1,7 @@
+./ligma.config.js
+dist
+stats.json
+
 # Logs
 logs
 *.log

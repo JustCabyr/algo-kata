@@ -1,2 +1,2 @@
-# kata-machine
+# algo-kata
 Algorithm playground
